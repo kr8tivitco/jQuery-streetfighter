@@ -1,4 +1,4 @@
-* {
+/* {
   outline: red 1px solid;
 }*/
 
@@ -12,6 +12,10 @@ body {
 	padding-left: 100px;
 	min-width: 1200px;
 	height: 500px;
+}
+
+.ryu {
+  float: left;
 }
 
 .ryu-ready, .ryu-still, .ryu-throwing {
@@ -45,11 +49,9 @@ body {
   height: 90px;
   display: none;
   position: relative;
-  top: -325px;
-  left: 525px;
+  top: 167px;
+  left: -212px;
   float: left;
-  /*margin-top: -325px;
-  margin-left: 600px;*/
-
+  
 }
 
