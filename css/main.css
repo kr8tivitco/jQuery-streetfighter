@@ -25,7 +25,11 @@ body {
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
+  overflow:scroll;
 }
+
+
+
 p{
   /*font-family: Georgia;
   font-size: 1em;*/
